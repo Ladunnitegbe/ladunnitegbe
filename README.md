@@ -35,8 +35,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/ladunni akinsola tegbe](https://www.linkedin.com/in/ladunni-akinsola-tegbe)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ladunni akinsola tegbe" height="30" width="40" /></a>
-<a href="https://fb.com/ladunni akinsola tegbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ladunni akinsola tegbe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ladunni akinsola tegbe](https://www.linkedin.com/in/ladunni-akinsola-tegbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ladunni akinsola tegbe" height="30" width="40" /></a>
+<a href="https://fb.com/ladunni-akinsola-tegbe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ladunni akinsola tegbe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
