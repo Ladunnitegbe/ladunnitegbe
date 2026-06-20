@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **CSS, HTML, JavaScript**
 
-- 📫 How to reach me **ladunnitegbe@gmail.com**
+- 📫 How to reach me **mailto:ladunnitegbe@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1x9yY5K3qPUTX3CiPdEEj_2LDSznrBYiSG1BZMCp7AL4/edit?usp=sharing](https://docs.google.com/document/d/1x9yY5K3qPUTX3CiPdEEj_2LDSznrBYiSG1BZMCp7AL4/edit?usp=sharing)
 
@@ -37,8 +37,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[Ladunni Akinsola Tegbe](https://www.linkedin.com/in/ladunni-akinsola-tegbe)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ladunni akinsola tegbe" height="30" width="40" /></a>
-<a href="[Ladunni Akinsola Tegbe](https://www.facebook.com/ladybirdbuffy)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ladunni akinsola tegbe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ladunni-akinsola-tegbe" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/ladybirdbuffy" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
