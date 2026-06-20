@@ -1,10 +1,25 @@
 
 <h1 align="center">Hi 👋, I'm Ladunni Tegbe</h1>
-<h3 align="center">A passionate Physics Lecturer turned Frontend Developer from Nigeria</h3>
+<h3 align="center">Hi, I'm Ladunni Akinsola, a Frontend Developer passionate about building responsive, user-friendly, and accessible web applications. </h3>
 
-- 🔭 I’m currently working on [My School Place One](https://my-school-place-one.vercel.app/)
+<h3 align="center">I'm currently expanding my skills in React.js while strengthening my knowledge of HTML, CSS, JavaScript, Tailwind CSS, and Git/GitHub. I enjoy transforming ideas into clean, functional, and visually appealing digital experiences.</h3>
 
-- 🌱 I’m currently learning **React and Tailwind**
+<h3 align="center">My journey into tech has been driven by continuous learning through programs such as Tech4Dev Women Techsters Fellowship, ALX AI Career Essentials, and hands-on project development.</h3>
+
+- 🔭 I’m currently working on
+  
+- Learning and building projects with React.js
+- Improving my frontend development skills
+- Creating responsive and accessible web interfaces
+- Exploring modern web development tools and best practices
+
+- 🌱 I’m currently learning
+
+- Advanced React Concepts
+- Tailwind CSS
+- State Management
+- API Integration
+- Frontend Performance Optimisation
 
 - 👯 I’m collaborating on [Afritech](https://github.com/jemimahrimdan/Group-15-Tech4dev.git)
 
