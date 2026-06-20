@@ -6,14 +6,14 @@
 
 <h3 align="center">My journey into tech has been driven by continuous learning through programs such as Tech4Dev Women Techsters Fellowship, ALX AI Career Essentials, and hands-on project development.</h3>
 
-- 🔭 I’m currently working on
+<h4>🔭 I’m currently working on</h4>
   
 - Learning and building projects with React.js
 - Improving my frontend development skills
 - Creating responsive and accessible web interfaces
 - Exploring modern web development tools and best practices
 
-- 🌱 I’m currently learning
+<h4> 🌱 I’m currently learning</h4>
 
 - Advanced React Concepts
 - Tailwind CSS
